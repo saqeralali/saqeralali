@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Developer at First Abu Dhabi Bank and Sophomore at Zayed University pursuing a B.S. in Computational<br>Systems. Passionate about building scalable, secure full-stack applications and integrating AI to enhance performance and impact.
+I am a Software Developer at First Abu Dhabi Bank and Sophomore at Zayed University pursuing a B.S. in Computational Systems. Passionate about building scalable, secure full-stack applications and integrating AI to enhance performance and impact.
 
 
 ## 🌐 Socials:
